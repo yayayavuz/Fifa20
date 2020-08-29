@@ -32,4 +32,4 @@ Main findings can be found in [this]() medium post
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The data that was worked with can be found in public datasets of [kaggle]https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset)
+The data that was worked with can be found in public datasets of [kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset)
