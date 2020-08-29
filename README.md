@@ -25,7 +25,7 @@ So what makes a footballer expensive? To give an answer to that, I' ve decided t
 
 
 ## File Descriptions <a name="files"></a>
-There is only one jupyter notebook, footballer_valuation.ipynb, that contains all the codes worked with in this project.
+There is only one jupyter notebook, footballer_valuation.ipynb, that contains all the codes in this project.
 
 ## Results<a name="results"></a>
 Main findings can be found in [this]() medium post
