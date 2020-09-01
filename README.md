@@ -13,6 +13,11 @@ Libraries used in the notebooks are as follows:
 * pandas  
 * numpy  
 * matplotlib.pyplot  
+* seaborn
+* plotly.express
+* pandas.plotting
+* lightgbm
+
 
 ## Project Motivation <a name="motivation"></a>
 "Why couldn't you beat a richer club? I' ve never seen a bag of money score a goal."
@@ -21,7 +26,7 @@ It is a famous quotation from Johann Cruyff, one of the legends in football hist
 
 Growing football industry can cause clubs spend higher than what they possibly win. UEFA brought out Financial Fair Play Regulations to audit the expenses of clubs an prevent them to collapse financially. To follow the rules in the regulation, valuation of a player becomes crucial either to sell or to buy.
 
-So what makes a footballer expensive? To give an answer to that, I' ve decided to predict the value of the football players using Fifa20 football video game dataset, provided in here.
+So what makes a footballer expensive? To give an answer to that, I' ve decided to predict the value of the football players using Fifa20 football video game dataset, provided in [here](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset).
 
 
 ## File Descriptions <a name="files"></a>
