@@ -33,7 +33,7 @@ So what makes a footballer expensive? To give an answer to that, I' ve decided t
 There is only one jupyter notebook, footballer_valuation.ipynb, that contains all the codes in this project.
 
 ## Results<a name="results"></a>
-Main findings can be found in [this]() medium post
+Main findings can be found in [this](https://medium.com/@yahyayavuz1/i-ve-never-seen-a-bag-of-money-score-a-goal-12cdc5cae4e1) medium post
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
